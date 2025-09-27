@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_gradient">#6A11CB</color>
+    <color name="header_gradient">#2575FC</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <string name="app_name">Global Calculator</string>
+    <style name="Base.Theme.GlobalCalculator" parent="Theme.Material3.DayNight">
+        
+    </style>
+    <style name="Theme.GlobalCalculator" parent="Base.Theme.GlobalCalculator"/>
+</resources>
